@@ -1,16 +1,13 @@
-### Hi there 👋
+### `valno`
 
-<!--
-**NaofalMufid/NaofalMufid** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+Hai, i'm **Mohammad Naofal Mufid**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I'm a enthusiastic **software developer** living in **Central Java, Indonesia**, working for myself.
+I love being part of development of web technologies. I like to **organize community and learning together**.
+I love **Ruby (and RoR)**.
+
+- 💻  [What I do about writing, studying and coding things ? (**GitHub**, you're already here)](https://github.com/NaofalMufid)
+- 🏹  [Curriculum vitae, the path of my life (**LinkedIn**)](https://www.linkedin.com/in/moh-naofal-mufid-ba2578158/)
+
+Don't forget to eat and sleep
