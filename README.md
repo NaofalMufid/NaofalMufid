@@ -1,13 +1,18 @@
-### `valno`
+# Hai, i'm **Mohammad Naofal Mufid 👋**
 
+- I'm a enthusiastic **software developer** living in **Central Java, Indonesia**, working for myself.
+- I love being part of development of web technologies. I like to **organize community and learning together**.
+- I’m currently learning **Expressjs** and **Reactjs**
+- Familiarity: `.rb`,`.js`,`.php`,`.html`, `.css`
 
-Hai, i'm **Mohammad Naofal Mufid**
+### 📬 Get in Touch
 
-I'm a enthusiastic **software developer** living in **Central Java, Indonesia**, working for myself.
-I love being part of development of web technologies. I like to **organize community and learning together**.
-I love **Ruby (and RoR)**.
+- GitHub: [github.com/NaofalMufid][github]
+- LinkedIn: [https://www.linkedin.com/in/moh-naofal-mufid-ba2578158/][linkedin]
+- Site: [NaofalMufid.github.io][site]
+- E-mail: valnovcc@gmail.com
 
-- 💻  [What I do about writing, studying and coding things ? (**GitHub**, you're already here)](https://github.com/NaofalMufid)
-- 🏹  [Curriculum vitae, the path of my life (**LinkedIn**)](https://www.linkedin.com/in/moh-naofal-mufid-ba2578158/)
+![NaofalMufid github stats](https://github-readme-stats.vercel.app/api?username=NaofalMufid&show_icons=true&hide_border=true)
 
-Don't forget to eat and sleep
+[github]: https://github.com/NaofalMufid
+[site]: https://NaofalMufid.github.io
