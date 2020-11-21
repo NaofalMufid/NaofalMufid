@@ -5,15 +5,6 @@
 - I’m currently learning **Ruby On Rails**, **Express** and **Reactjs**
 - Familiarity: `.rb`,`.js`,`.php`,`.html`, `.css`
 
-### 📬 Get in Touch
-
-- GitHub: [github.com/NaofalMufid][github]
-- LinkedIn: [linkedin.com/in/moh-naofal-mufid-ba2578158/][linkedin]
-- Site: [NaofalMufid.github.io][site]
-- E-mail: valnovcc@gmail.com
+### 📬 [Get in Touch](https://www.linkedin.com/in/moh-naofal-mufid-ba2578158/)
 
 ![NaofalMufid github stats](https://github-readme-stats.vercel.app/api?username=NaofalMufid&show_icons=true&hide_border=true)
-
-[github]: https://github.com/NaofalMufid
-[linkedin]:https://www.linkedin.com/in/moh-naofal-mufid-ba2578158/
-[site]: https://NaofalMufid.github.io
