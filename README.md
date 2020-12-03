@@ -7,4 +7,6 @@
 
 ### 📬 [Get in Touch](https://www.linkedin.com/in/moh-naofal-mufid-ba2578158/)
 
+[![Mohammad Naofal Mufid's DEV Profile](https://d2fltix0v2e0sb.cloudfront.net/dev-badge.svg)](https://dev.to/naofalmufid)
+
 ![NaofalMufid github stats](https://github-readme-stats.vercel.app/api?username=NaofalMufid&show_icons=true&hide_border=true)
