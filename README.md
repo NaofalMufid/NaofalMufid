@@ -7,4 +7,4 @@
 
 ### 📬 [Get in Touch](https://www.linkedin.com/in/moh-naofal-mufid-ba257815)
 
-![NaofalMufid github stats](https://github-readme-stats.vercel.app/api?username=NaofalMufid&show_icons=true&hide_border=true)
+![NaofalMufid github stats](https://github-readme-stats.vercel.app/api?username=NaofalMufid&show_icons=true&hide_border=false)
