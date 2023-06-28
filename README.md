@@ -1,8 +1,8 @@
 # Hai, i'm **Mohammad Naofal Mufid 👋**
 
-- I'm a enthusiastic **software developer** living in **Central Java, Indonesia**, working for myself.
-- I love being part of development of web technologies. I like to **organize community and learning together**.
-- I’m currently learning **NodeJS**, **Ruby On Rails**, and **AWS**
+- I'm a enthusiastic **software developer** living in **Central Java, Indonesia**.
+- I love being part of the development of web technologies. I like to **organize community and learning together**.
+- I’m currently learning **NodeJS**, **Ruby On Rails**, **Go** and **AWS**
 - Familiarity: `.js`,`.rb`,`.ts`,`.php`,`.html`, `.css`
 
 ### 📬 [Get in Touch](https://www.linkedin.com/in/naofalmufid/)
